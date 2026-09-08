@@ -1,0 +1,12 @@
+{
+ "kind": "mirror",
+ "engine": "https://github.com/shaelsrv/ModelMeetsReality",
+ "engine_commit": "56a33c1",
+ "tier": "designed",
+ "one_line": "models the modeller -- one level up",
+ "premise_shape": "OPEN QUESTION -- see KINDS.md.",
+ "falsifier": "OPEN. Candidate discipline: it predicts a specific revision the author will make, and the author does not make it.",
+ "predict_frame": "State a specific, dated revision you expect the author's own models to undergo.",
+ "assess_frame": "Did the predicted revision occur?",
+ "warning": "This kind has no proven discipline. Building one is research, not scaffolding."
+}
